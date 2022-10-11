@@ -16,7 +16,7 @@ Have lucky mining! :)
 
 # 📝 Tutorial
 
-* Download Miner
+* Download Script
 
 * Download and unzip the archive
 
